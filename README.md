@@ -95,12 +95,12 @@ Silakan fork repository ini, buat branch baru untuk fitur atau perbaikan, dan aj
 
 ## Tim Pengembang
 
-# SI MBEK V1
+### SI MBEK V1
 - Yos Marison Sianipar ([@vianpr0](https://github.com/vianpr0))
 - Rizki Pangestu ([@rizkipgt](https://github.com/rizkipgt))
 - Elika Dwi Utami ([@ElikaDwiUtami](https://github.com/ElikaDwiUtami))
 
-# SI MBEK V2
+### SI MBEK V2
 - Teguh Karya Rizki ([@Teguhkr](https://github.com/Teguhkr))
 - Rizki Pangestu ([@rizkipgt](https://github.com/rizkipgt))
 - Elika Dwi Utami ([@ElikaDwiUtami](https://github.com/ElikaDwiUtami))
