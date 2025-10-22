@@ -28,7 +28,7 @@
 
 1. **Clone Repository**
    ```bash
-   git clone https://github.com/rizkipgt/SI-MBEK.git
+   git clone https://github.com/rizkipgt/SI-MBEK-v3.git
    cd SI-MBEK
    ```
 
